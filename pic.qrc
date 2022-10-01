@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="table">
+    <file>价目.png</file>
+  </qresource>
+</RCC>
